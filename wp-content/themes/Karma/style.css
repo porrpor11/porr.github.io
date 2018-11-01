@@ -6516,7 +6516,7 @@ div.pp_default .pp_top,div.pp_default .pp_top .pp_middle,div.pp_default .pp_top 
 /* Responsive Design
 /*----------------------------*/
 /*
-- All responsive CSS is located in: /css/_mobile.css
+- All responsive CSS is located in: /css/mobile.css
 - File was separated to allow for disabling of responsive-ness
 */
 #tt-mobile-menu-list {

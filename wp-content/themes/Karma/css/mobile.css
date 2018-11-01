@@ -381,7 +381,7 @@ textarea {
 	width: 738px;
 	height: 336px !important;
 	background: none;
-	background-image: url(../images/_global/bg-slider-jquery-2.png);
+	background-image: url(../images/global/bg-slider-jquery-2.png);
 	background-size: 738px 336px;
 	background-repeat: none;
 /* overflow: hidden; */
@@ -957,7 +957,7 @@ background: #fff;
 .content-style-tan .modern_img_frame .img-preload,
 .content-style-grey .modern_img_frame .img-preload,
 .content-custom-bg .modern_img_frame .img-preload {
-	background-image: url(../images/_global/loader-mobile.gif);	
+	background-image: url(../images/global/loader-mobile.gif);	
 }
 
 /* 
