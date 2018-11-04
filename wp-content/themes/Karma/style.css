@@ -217,7 +217,7 @@ a.comment-reply-link:before,
 a.comment-edit-link:before,
 .comments-rss-link a:after,
 ul#menu-main-nav li.menu-item-has-children a:after {
-	font-family: FontAwesome;
+	font-family: FontAwesome !important;
  	display: inline-block;
 }
 #menu-main-nav li:before,
